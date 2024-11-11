@@ -1,9 +1,0 @@
-active,date,points_scored,plus_minus,team,location,opponent,outcome,seconds_played,made_field_goals,attempted_field_goals,made_three_point_field_goals,attempted_three_point_field_goals,made_free_throws,attempted_free_throws,offensive_rebounds,defensive_rebounds,assists,steals,blocks,turnovers,personal_fouls,game_score
-True,2024-10-22,22,-23,NEW YORK KNICKS,AWAY,BOSTON CELTICS,LOSS,1470,9,14,1,2,3,3,0,1,2,0,0,4,3,12.3
-True,2024-10-25,26,36,NEW YORK KNICKS,HOME,INDIANA PACERS,WIN,1795,10,19,3,5,3,4,2,3,5,0,0,1,1,20.7
-True,2024-10-28,21,0,NEW YORK KNICKS,HOME,CLEVELAND CAVALIERS,LOSS,2256,8,24,0,4,5,7,0,3,7,0,0,1,2,10.6
-True,2024-10-30,22,5,NEW YORK KNICKS,AWAY,MIAMI HEAT,WIN,2182,6,18,3,7,7,8,0,2,9,0,0,1,0,17.3
-True,2024-11-01,36,23,NEW YORK KNICKS,AWAY,DETROIT PISTONS,WIN,1840,14,22,6,8,2,4,0,1,5,2,0,2,2,28.4
-True,2024-11-04,29,-8,NEW YORK KNICKS,AWAY,HOUSTON ROCKETS,LOSS,2545,9,24,2,4,9,9,1,2,8,1,0,1,2,21.9
-True,2024-11-06,21,-5,NEW YORK KNICKS,AWAY,ATLANTA HAWKS,LOSS,2205,8,18,4,11,1,2,0,3,4,0,0,3,3,10.7
-True,2024-11-08,15,28,NEW YORK KNICKS,HOME,MILWAUKEE BUCKS,WIN,1905,6,14,0,5,3,4,1,1,9,1,0,0,2,14.7
