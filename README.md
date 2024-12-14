@@ -38,13 +38,13 @@ I used various encoding and scaling techniques including OneHotEncoder, Standard
 
 # Data Analysis:
 
-Through data exploration, I learned that there was a major hit in Brunson's performance betweent the first 3 seasons and the last 3 seasons of his career related to his performance. This can be seen through the distribution plots below:
+Through data exploration, I learned that there was a major shift in Brunson's performance between the first 3 seasons and the last 3 seasons of his career related to his performance. This can be seen through the distribution plots below:
 
 ![Distribution_of_Points_Per_Game_by_Season](https://github.com/user-attachments/assets/5570e9a8-3c44-4d2a-8886-bb1eb3010eab)
 ![Minutes_Played_Per_Game_by_Season](https://github.com/user-attachments/assets/7bc20405-6b61-4c14-a807-41fd643ccf84)
 ![Plus_Minus_Per_Game_by_Season](https://github.com/user-attachments/assets/a68267e5-4b2d-4360-910e-f2033025ffb3)
 
-We can see his performance improves significantly and his impact on the team also improves. This could be attributed to his switch to the Knicks in 2022. The change in his teammates and environment could be a big factor in how his performance enhanced.  
+We can see his performance improves significantly and his impact on the team also improves. This can most likely be attributed to his switch to the Knicks in 2022. The change in his teammates and environment could be a big factor in how his performance enhanced.  
 
 # Results:
 The best model was a RandomForest Classifier which produced an accuracy of 40%
