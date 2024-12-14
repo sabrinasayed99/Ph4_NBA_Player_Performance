@@ -50,7 +50,7 @@ We can see his performance improves significantly and his impact on the team als
 The best model was a RandomForest Classifier which produced an accuracy of 40%
 ![Confusion_Matrix](https://github.com/user-attachments/assets/7c4750a4-c8a4-4120-b13a-582c256f3c0e)
 
-The model is having a very hard time predicting the the smaller classes. We can attribute this to both a lack of information from the limited size of the data, the inherent difficult of this problem, and the class imbalance.
+The model is having a very hard time predicting the the smaller classes. We can attribute this to both a lack of information from the limited size of the data, the inherent difficulty of this problem, and the class imbalance.
 
 ![ROC_Curve](https://github.com/user-attachments/assets/51364dc3-cb0d-4624-9b9f-68ae0247c21c)
 
