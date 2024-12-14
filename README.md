@@ -5,12 +5,12 @@
 
 
 ## Problem:
-Can we predict the outcome of a game based solely on one player's performance? Jalen Brunson is a 2 time MVP and start player of the Knicks NBA team. How much does his performance weigh into the team's success in a game?
+Can we predict the outcome of a game based solely on one player's performance? Jalen Brunson is a 2-time MVP and star player of the Knicks NBA team. How much does his performance weigh into the team's success in a game?
 
 
 
 ## Data Overview: 
-The data was sourced and scaped from Basketball Reference using a data pipeline and manual scraping techniques.
+The data was sourced and scaped from Basketball Reference using a data pipeline and web scraping techniques.
 
 The target variable we are predicting is the Win-Loss Margin of a game. I created a classification system to bin the margins into 6 class:
 
@@ -38,7 +38,7 @@ I used various encoding and scaling techniques including OneHotEncoder, Standard
 
 # Data Analysis:
 
-Through data exploration, I learned that there was a major shit in Brunson's performance betweent he first 3 seasons and the last 3 seasons of his career related to his performance. This can be seen through the distribution plots below.
+Through data exploration, I learned that there was a major hit in Brunson's performance betweent the first 3 seasons and the last 3 seasons of his career related to his performance. This can be seen through the distribution plots below:
 
 ![Distribution_of_Points_Per_Game_by_Season](https://github.com/user-attachments/assets/5570e9a8-3c44-4d2a-8886-bb1eb3010eab)
 ![Minutes_Played_Per_Game_by_Season](https://github.com/user-attachments/assets/7bc20405-6b61-4c14-a807-41fd643ccf84)
